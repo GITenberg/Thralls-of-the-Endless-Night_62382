@@ -1,0 +1,43 @@
+_repo: Thralls-of-the-Endless-Night_62382
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leydenfrost, Robert J.
+    aliases:
+    - Leydenfrost, Robert
+    - Leydenfrost, Robert Joseph
+    - Leidenfrost, Bob
+    - Leydenfrost, Bob
+    birthdate: 1925
+    deathdate: 1987
+    gutenberg_agent_id: '51901'
+    url: http://www.gutenberg.org/2009/agents/51901
+creator:
+  author:
+    agent_name: Brackett, Leigh
+    aliases:
+    - Hamilton, Leigh Brackett
+    - Brackett, Leigh Douglass
+    birthdate: 1915
+    deathdate: 1978
+    gutenberg_agent_id: '25398'
+    url: http://www.gutenberg.org/2009/agents/25398
+    wikipedia: https://en.wikipedia.org/wiki/Leigh_Brackett
+description: ''
+gutenberg_issued: '2020-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Regression (Civilization) -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- GITenberg
+title: Thralls of the Endless Night
+url: http://www.gutenberg.org/ebooks/62382
